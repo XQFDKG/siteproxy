@@ -1,1 +1,1 @@
-web: herokuAddr=your-domain-name.herokuapp.com npm run start
+web: herokuAddr=proxying123.herokuapp.com npm run start
